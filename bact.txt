@@ -1,0 +1,6 @@
+> this should not be added "ATGC" 
+ A ACC TG
+ ACA
+ 
+    TC
+ TT
